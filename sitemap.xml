@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://rategrid.example/</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://rategrid.example/rates.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rategrid.example/guide-how-rates-work.html</loc><lastmod>2026-06-21</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rategrid.example/pair-AUD.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-BRL.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-CAD.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-CHF.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-CNY.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-CZK.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-DKK.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-EUR.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-GBP.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-HKD.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-HUF.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-IDR.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-ILS.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-INR.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-ISK.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-JPY.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-KRW.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-MXN.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-MYR.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-NOK.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-NZD.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-PHP.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-PLN.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-RON.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-SEK.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-THB.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-TRY.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-USD.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rategrid.example/pair-ZAR.html</loc><lastmod>2026-06-21</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+</urlset>
